@@ -1,25 +1,15 @@
-# 💫👨🏽‍💻 About Me:
-<br>I'm a passionate software engineer with 2 years of experience building robust and user-centric applications. My expertise lies in:<br>
+<h1 align="left" >🧑🏽‍💻 B. Elijah Detilisi</h1>
+<p>
+I am a Software Engineer with 2+ years of experience building full-stack applications. Adept at crafting native mobile experiences (Xamarin, .NET MAUI), dynamic web applications (Angular.JS, JavaScript, Tailwind CSS), and scalable backend systems (ASP.NET Core, SQL/PostgreSQL, Entity Framework Core). Enthusiastic about machine learning, actively exploring Python libraries (NumPy, Pandas) to further enhance my skillset. Eager to learn, grow, and contribute to challenging projects. Feel free to reach out for collaborations!
+</p>
 
-### Mobile Development 📲 : 
-Adept at crafting native mobile experiences using Xamarin and .NET MAUI, ensuring seamless interaction across platforms.
-
-### Web Development 🕸️💻: 
-Proficient in creating dynamic and visually appealing web applications with Angular.JS, JavaScript, and Tailwind CSS.
-
-### Backend Systems 🖥️: 
-Experienced in developing scalable and maintainable backend systems using ASP.NET Core, SQL and PostgreSQL databases, Dapper and Entity Framework Core for smooth data management.
-
-### Machine Learning (ML) Enthusiast 🤖: 
-Excited about the potential of ML and actively exploring its capabilities with Python, NumPy, Pandas, and other relevant libraries.
-
-<br>I'm constantly seeking opportunities to learn, grow, and contribute to challenging projects. Feel free to reach out if you have any interesting collaborations or questions!<br>
-
-# 🌐 Socials:
-<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bongani-elijah-detilisi) <br/>
+<h1 align="left" >🌐 Socials:</h1>
+<p>
+DEV : https://dev.to/detilisi  
+</p>
 
 # 💻 Tech Stack:
-<br/>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -33,7 +23,7 @@ Excited about the potential of ML and actively exploring its capabilities with P
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br/>
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
 <br/>![](https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
