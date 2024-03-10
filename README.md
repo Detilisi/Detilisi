@@ -40,10 +40,7 @@ Excited about the potential of ML and actively exploring its capabilities with P
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Detilisi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-### 🔝 Top Contributed Repo
-<br/>![](https://github-contributor-stats.vercel.app/api?username=Detilisi&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-
-### Random Meme 
+# Random Meme 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
