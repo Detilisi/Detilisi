@@ -2,8 +2,16 @@
  <header>
   <h1 style="text-align: left">Hi there👋, I'm Elijah🧑🏽‍💻</h1>
   <div class="stats" style="display: flex; flex-wrap: wrap; width: 100%">
-   <img src="https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hided&show_icons=true&count_private=true&hide_border=true" alt="Github stats" style="flex: 1;" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false" alt="Github streak stats" style="flex: 1;" />
+   <table>
+    <tr>
+     <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hided&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+     </td>
+     <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false" align="left" style="width: 100%" />
+     </td>
+    </tr>
+   </table>
   </div>
  </header>
  <hr>
