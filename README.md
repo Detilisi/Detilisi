@@ -8,7 +8,8 @@ I am a Software Engineer with 2+ years of experience building full-stack applica
 DEV : https://dev.to/detilisi  
 </p>
 
-# 💻 Tech Stack:
+<h1>💻 Tech Stack:</h1>
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -25,10 +26,18 @@ DEV : https://dev.to/detilisi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
-<br/>![](https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Detilisi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<h1>📊 GitHub Stats:</h1>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hided&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table> 
+
 
 # Random Meme Before You Go go:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
