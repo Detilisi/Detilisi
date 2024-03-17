@@ -1,7 +1,35 @@
 <h1 align="left" >Hi there👋, I'm Elijah🧑🏽‍💻</h1>
-<p>
-I am a Software Engineer with 2+ years of experience building full-stack applications. Adept at crafting native mobile experiences (Xamarin, .NET MAUI), dynamic web applications (Angular.JS, JavaScript, Tailwind CSS), and scalable backend systems (ASP.NET Core, SQL/PostgreSQL, Entity Framework Core). Enthusiastic about machine learning, actively exploring Python libraries (NumPy, Pandas) to further enhance my skillset. Eager to learn, grow, and contribute to challenging projects. Feel free to reach out for collaborations!
-</p>
+<table>
+ <tr>
+  <td valign="top" width="50%">
+   <img src="https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hided&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+  </td>
+  <td valign="top" width="50%">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false" align="left" style="width: 100%" />
+  </td>
+ </tr>
+</table> 
+
+<div>
+ <p>
+  I am a Full-stack developer with 2+ years of experience building full-stack applications. Adept at crafting native mobile experiences (Xamarin, .NET MAUI), dynamic web applications (Angular.JS, JavaScript, Tailwind CSS), and scalable backend systems 
+  (ASP.NET Core, SQL/PostgreSQL, Entity Framework Core). Enthusiastic about machine learning, actively exploring Python libraries (NumPy, Pandas) to further enhance my skillset. Eager to learn, grow, and contribute to challenging projects. 
+  Feel free to reach out for collaborations!
+ </p>
+</div>
+
+<div>
+ <a href="https://www.youtube.com/c/fknight">
+  <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://www.youtube.com/c/fknight">
+  <img alt="dev" title="Dev" src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+ </a>
+ <a href="https://www.youtube.com/c/fknight">
+  <img alt="twitter" title="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+</div>
+
 
 <h1 align="left" >🌐 Socials:</h1>
 <p>
@@ -25,19 +53,6 @@ DEV : https://dev.to/detilisi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-<h1>📊 GitHub Stats:</h1>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Detilisi&theme=dark&hided&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detilisi&theme=dark&hide_border=false" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table> 
-
 
 # Random Meme Before You Go go:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
