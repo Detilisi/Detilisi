@@ -32,9 +32,7 @@
 <section>
  <div style="text-align: center;">
   <p>
-    I am a Full-stack developer with 2+ years of experience building full-stack applications. Adept at crafting native mobile experiences (Xamarin, .NET MAUI), dynamic web applications (Angular.JS, JavaScript, Tailwind CSS), 
-    and scalable backend systems (ASP.NET Core, SQL/PostgreSQL, Entity Framework Core). Enthusiastic about machine learning, actively exploring Python libraries (NumPy, Pandas) to further enhance my skillset. Eager to learn, grow, 
-    and contribute to challenging projects. Feel free to reach out for collaborations!
+   I am an aspiring software architect with over 2 years of experience in software development, building robust and scalable software with a focus on clean architecture, domain-driven design, CQRS, and the MVVM design patterns for mobile and desktop applications.    Proficient in the latest .NET technologies: Xamarin, .NET MAUI, ASP.NET Core, and  EF Core. Eager to learn, grow, and contribute to challenging projects. Feel free to reach out for collaborations!
   </p>
  </div>
 </section>
