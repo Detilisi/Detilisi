@@ -25,7 +25,7 @@
    <img src="https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" title=".Net" />
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" title="Sqlite" />
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" title="Android" />
-   <img src="https://img.shields.io/badge/iOS-001000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" title="iOS" />
+   <img src="https://img.shields.io/badge/iOS-07405E?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" title="iOS" />
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows" />   
   </div>
 </section>
