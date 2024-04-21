@@ -18,11 +18,15 @@
  
  <section>
   <div class="tech-icons">
+   
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" title=".Net" />
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" title="C#" />
    <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" title="Xamarin" />
+   <img src="https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" title=".Net" />
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" title="Sqlite" />
-   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS" title="VS" />
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" title="Android" />
+   <img src="https://img.shields.io/badge/iOS-001000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" title="iOS" />
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows" />   
   </div>
 </section>
 <hr>
