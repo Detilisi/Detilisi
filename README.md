@@ -30,13 +30,4 @@
   </div>
 </section>
 <hr>
-
-<section>
- <div style="text-align: center;">
-  <p>
-   I am an aspiring software architect with over 2 years of experience in software development, building robust and scalable software with a focus on clean architecture, domain-driven design, CQRS, and the MVVM design patterns for mobile and desktop applications.    Proficient in the latest .NET technologies: Xamarin, .NET MAUI, ASP.NET Core, and  EF Core. Eager to learn, grow, and contribute to challenging projects. Feel free to reach out for collaborations!
-  </p>
- </div>
-</section>
-<hr>
 </div>
